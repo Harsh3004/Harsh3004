@@ -5,7 +5,7 @@
 
 <h3 align="left">
   Connect with me: 
-  <a href="https://www.linkedin.com/in/harsh-joshi-a2498a27b/"> **LinkedIn** </a>
+  <a href="https://www.linkedin.com/in/harsh-joshi-a2498a27b/"> @LinkedIn </a>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,14 +41,16 @@
 
 <details>	
   <summary><b>LeetCode Badges: </b></summary><br>
-  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <div style='display:flex; align-items:center; gap: 10px;'>
     <a href="https://leetcode.com/u/Harsh_Joshi_/">
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100px" height="100px" />
     </a>
   </div>
-  
+</details>
+
+<details>	
   <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <div style='display:flex; align-items:center; gap: 10px;'>
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   </div>
 </details>
