@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Joshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 📫 How to reach me **harshjoshi3004@gmail.com**
 
@@ -48,6 +48,9 @@
     </a>
     <a href="https://leetcode.com/u/Harsh_Joshi_/">
       <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100px" height="100px" />
+    </a>
+    <a href="https://leetcode.com/u/Harsh_Joshi_/">
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100px" height="100px" />
     </a>
   </div>
 </details>
