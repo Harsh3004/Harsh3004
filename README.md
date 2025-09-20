@@ -34,10 +34,23 @@ Other Tools     → Git & GitHub · Postman · VS Code
 ---
 
 ## 🏆 Achievements & Badges
+<p align="center">
+  <b>🥈LeetCode Weekly Contest 462</b><br>
+  <i>Aug 10, 2025 • Rank: 1834/35329</i>
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-150%2B%20problems-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-4EA94B?logo=github&logoColor=white&style=for-the-badge" />
+  <div align="center" style='display:flex; align-items:center; gap: 10px;'>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+    <a href="https://leetcode.com/u/Harsh_Joshi_/">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100px" height="100px" />
+    </a>
+    <a href="https://leetcode.com/u/Harsh_Joshi_/">
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100px" height="100px" />
+    </a>
+    <a href="https://leetcode.com/u/Harsh_Joshi_/">
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100px" height="100px" />
+    </a>
+  </div>
 
 ---
 
