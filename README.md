@@ -67,8 +67,8 @@ Other Tools     → Git & GitHub · Postman · VS Code
 
 ## 📬 Let's Connect
 
-- 🌐 Portfolio → Coming soon!
-- 💼 LinkedIn → [linkedin.com/in/harsh-joshi-a2498a27b/](https://linkedin.com/in/harsh-joshi-a2498a27b/)
+- 🌐 Portfolio → [Harsh_PortFolio](https://harsh-portfolio-xi-lilac.vercel.app/)
+- 💼 LinkedIn → [Harsh_LinkedIn](https://linkedin.com/in/harsh-joshi-a2498a27b/)
 - 🐱 GitHub → [Harsh3004](https://github.com/Harsh3004)
 - 📬 Email → `harshjoshi3004@gmail.com`
 
