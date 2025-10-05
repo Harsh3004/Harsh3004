@@ -120,3 +120,13 @@ Other Tools     → Git & GitHub · Postman · VS Code
 </div>
 
 ---
+
+## 🧩 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@harsh3004">
+    <img src="https://holopin.me/harsh3004" alt="@harsh3004's Holopin board" />
+  </a>
+</p>
+
+---
