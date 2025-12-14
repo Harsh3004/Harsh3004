@@ -41,7 +41,7 @@ Other Tools     → Git & GitHub · Postman · VS Code
 
   <div align="center" style='display:flex; align-items:center; gap: 10px;'>
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-    <a href="https://leetcode.com/u/Harsh_Joshi_/">
+    <!-- <a href="https://leetcode.com/u/Harsh_Joshi_/">
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100px" height="100px" />
     </a>
     <a href="https://leetcode.com/u/Harsh_Joshi_/">
@@ -50,7 +50,16 @@ Other Tools     → Git & GitHub · Postman · VS Code
     <a href="https://leetcode.com/u/Harsh_Joshi_/">
       <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100px" height="100px" />
     </a>
+    <a href="https://leetcode.com/u/Harsh_Joshi_/">
+       <img src="https://assets.leetcode.com/static_assets/others/25200.gif" width="100px" height="100px" />
+    </a> -->
   </div>
+<br/>
+<div align="center" style='margin-top: 50px;'>
+  <a href="https://leetcode.com/u/Harsh_Joshi_/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Harsh_Joshi_&animated=true&theme=dark" alt="Harsh_Joshi_'s LeetCode Badges" />
+  </a>
+</div>
 
 ---
 
