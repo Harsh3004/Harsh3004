@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
 ```txt
 🎓  3rd-year B.Tech CS student, passionate about real-world impact through code
@@ -41,7 +41,7 @@
 
 ---
 
-## 💻 Tech Stack & Tools
+<h2 align="center">💻 Tech Stack & Tools</h2>
 
 <div align="center">
 
@@ -85,13 +85,13 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
 | 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 |
 |:-----------|:--------------|:--------------|:--:|
-| **WayScan** | Distributed civic infrastructure platform — on-device TFLite ML inference → DBSCAN geospatial clustering → SSE real-time admin dashboard with an AI voice assistant (Groq LLaMA 3.1). Offline-first mobile sync, priority scoring, and auto-lifecycle management across a 3-app monorepo. | Python · Flask · Next.js 16 · React Native · TFLite · MongoDB · WatermelonDB · Groq AI | [Repo](https://github.com/Harsh3004/WayScan) |
+| **WayScan** | Distributed civic infrastructure platform — on-device TFLite ML inference → DBSCAN geospatial clustering → SSE real-time admin dashboard with an AI voice assistant . Offline-first mobile sync, priority scoring, and auto-lifecycle management across a 3-app monorepo. | Python · Flask · Next.js 16 · React Native · TFLite · MongoDB · WatermelonDB · Groq AI | [Repo](https://github.com/Harsh3004/WayScan) |
 | **Udaan** | Tech-driven initiative for community empowerment & social impact | MERN Stack | [Repo](https://github.com/Harsh3004/Udaan) |
 | **Annpurna** | Food distribution & management platform connecting donors with the needy | React · Node.js · Express · MongoDB | [Repo](https://github.com/Harsh3004/Annpurna) |
 | **aegis-ui** | Modular, accessible React UI component library with charts & rich components | React · Material UI · Chart.js | [Repo](https://github.com/Harsh3004/aegis-ui) |
@@ -101,7 +101,7 @@
 
 ---
 
-## 🏆 Achievements & Recognitions
+<h2 align="center">🏆 Achievements & Recognitions</h2>
 
 <div align="center">
 
@@ -121,9 +121,8 @@
 
 ---
 
-## 👨‍💻 Coding Profiles
 
-## 👨‍💻 Coding Profiles
+<h2 align="center">👨‍💻 Coding Profiles</h2>
 
 <div align="center">
 
@@ -136,7 +135,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -157,7 +156,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Harsh3004/Harsh3004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -165,7 +164,7 @@
 
 ---
 
-## 🧩 Holopin Badges
+<h2 align="center">🧩 Holopin Badges</h2>
 
 <div align="center">
   <a href="https://holopin.io/@harsh3004">
@@ -175,7 +174,7 @@
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
