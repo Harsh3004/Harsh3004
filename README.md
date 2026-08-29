@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <b>3rd-year CS Student • Full Stack Developer • Community Builder</b><br/>
+  <b>Final-year CS Student • Full Stack Developer • Community Builder</b><br/>
   <i>"If you don't challenge yourself, you will never realize what you can become."</i>
 </p>
 
@@ -31,7 +31,7 @@
 <h2 align="center">🧠 About Me</h2>
 
 ```txt
-🎓  3rd-year B.Tech CS student, passionate about real-world impact through code
+🎓  Final-year B.Tech CS student, passionate about real-world impact through code
 🔧  Specializing in scalable full-stack web apps using the MERN stack
 🏆  Active on LeetCode, CodeForces, CodeChef & GFG — competitive programmer at heart
 🌱  Self-taught, always exploring new tech and frameworks
